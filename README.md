@@ -39,3 +39,4 @@ color: #555;
 <div class="footer">Stealth mode activated. Hosted on GitHub Pages.</div>
 </body>
 </html>
+/workspaces/Study-ZonE/Clash Royale.lnk
